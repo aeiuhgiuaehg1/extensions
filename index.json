@@ -9468,6 +9468,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hentai20",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hentai20",
+    "apk": "tachiyomi-en.hentai20-v1.4.39.apk",
+    "lang": "en",
+    "code": 39,
+    "version": "1.4.39",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Hentai20",
+        "lang": "en",
+        "id": "7114409483685920616",
+        "baseUrl": "https://hentai20.io",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hentai3z.CC",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentai3zcc",
     "apk": "tachiyomi-en.hentai3zcc-v1.4.1.apk",
